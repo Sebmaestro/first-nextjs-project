@@ -15,6 +15,7 @@ export default function Page() {
                     <li>Weekly overhead view, how many days did i exercise that week?</li>
                     <li>What musclegroup did exercise that day?</li>
                     <li>What exercises did i do on that day, reps/sets/weight?</li>
+                    <li>This is a test for the git thing 123</li>
                 </ul>
             </div>
             <div>
