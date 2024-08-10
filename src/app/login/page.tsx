@@ -8,9 +8,6 @@ export default function Page() {
             <input type="password" name="password" placeholder="Password" required />
             <button type="submit">Login</button>
         </form>*/
-        <div>
-            <h1>yo</h1>
-            <h2>Test</h2>
-        </div>
+        <h1>yo</h1>
     )
 }
